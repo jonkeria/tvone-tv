@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncensored.tvone.tv</title>
+    <link>https://uncensored.tvone.tv</link>
+    <description>Uncensored news and commentary from around the world.</description>
+    <atom:link href="https://uncensored.tvone.tv/feed/" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <pubDate>Wed, 31 May 2023 11:01:22 GMT</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 11:01:22 GMT</lastBuildDate>
+    <generator>Bard</generator>
+    <item>
+      <title>Title of the article</title>
+      <link>https://uncensored.tvone.tv/article/article-id</link>
+      <description>Description of the article</description>
+      <pubDate>Wed, 31 May 2023 11:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Title of another article</title>
+      <link>https://uncensored.tvone.tv/article/article-id-2</link>
+      <description>Description of another article</description>
+      <pubDate>Wed, 31 May 2023 11:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Title of a third article</title>
+      <link>https://uncensored.tvone.tv/article/article-id-3</link>
+      <description>Description of a third article</description>
+      <pubDate>Wed, 31 May 2023 11:01:22 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
